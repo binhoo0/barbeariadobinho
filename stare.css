@@ -1,0 +1,43 @@
+#misão {
+   font-size: 30px
+}
+#banner {
+  width: 100%;
+}
+ p{
+body {
+  background: #cccccc
+}
+text-align: center;
+}
+em strong {
+  color: #ff0000;
+}
+h1{
+  text-align: center;
+}
+p{
+  font-size: 20px
+}
+.principal{
+  background:  #b8b6b6;
+  pading: 30px
+} .itens{
+  font-style:italic;
+}
+.beneficios{
+  background:#ffffff
+  pading:20px;
+}
+h2 { 
+text-align:center;
+}
+ul {
+  display:inline-block;
+  vertical-align:top;
+  width:20%;
+  margin-right:15%;
+}
+.imagembeneficios{
+  width:50%;
+}
